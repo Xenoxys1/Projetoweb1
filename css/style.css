@@ -54,10 +54,11 @@ h3 {
     text-decoration: underline red;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 table {
     background-color: rgb(71, 71, 71);
     color: white;
     border: solid black 5px;
-    
-
+    font-size: 20pt;
+    font-family:'Courier New', Courier, monospace;
 }
